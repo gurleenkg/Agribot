@@ -44,7 +44,10 @@ AgriBot is a multilingual chatbot designed to empower Indian farmers by providin
 ## 📈 Evaluation Metrics
 
 - **BLEU Score**: For translation accuracy.
+- <img width="905" height="406" alt="image" src="https://github.com/user-attachments/assets/fa757583-70df-48a2-863c-10c15006b243" />
+
 - **Precision, Recall, F1-Score**: For model performance assessment.
+<img width="1414" height="437" alt="image" src="https://github.com/user-attachments/assets/b1acbaa1-2266-43d5-9f81-8c543f38b0cf" />
 
 ---
 
@@ -70,6 +73,12 @@ Switched to **Google Translate’s NMT models**, which provide:
 ## 📷 UI Screenshots
 
 - English, Hindi, and Punjabi prompts supported via web interface.
+- <img width="1254" height="617" alt="image" src="https://github.com/user-attachments/assets/b401a532-f674-4f3f-8009-2e37205e4ae3" />
+<img width="1296" height="678" alt="image" src="https://github.com/user-attachments/assets/ad9d2d42-fdaa-42dd-971a-1345f6181f0e" />
+<img width="1216" height="687" alt="image" src="https://github.com/user-attachments/assets/fc153823-d8e4-4276-bfda-a587c07d1669" />
+
+
+
 
 ---
 
